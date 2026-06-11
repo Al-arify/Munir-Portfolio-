@@ -1,39 +1,56 @@
-# Munir-Portfolio-
-Cybersecurity | Data Science | AI for Public Good
-# 👨🏽‍💻 Muhammad Munir Awal
+# Muhammad Munir Awal: Cybersecurity & Intelligence Systems Portfolio
 
-**Cybersecurity Analyst | Data Enthusiast | AI for Public Good Advocate**
+### Cybersecurity Practitioner | OSINT Researcher | Workflow Engineer
 
-Hi there 👋🏽 I'm Muhammad from Nigeria. I work at the intersection of cybersecurity, data science, and public service. I'm passionate about building tools that support justice, transparency, and sustainable development across Africa.
+👋🏽 I'm Muhammad, a cybersecurity practitioner focused on **Open-Source Intelligence (OSINT)**, **institutional systems architecture**, and **digital transformation**. I specialize in developing robust security solutions and optimizing technical workflows.
 
 ---
 
 ## 🔍 Featured Projects
 
-### 🏛 PACER – Public Access to Court Electronic Records
-Digitizing transparency: A court record project aimed at making legal case data accessible to citizens and researchers.  
-**Tools:** Python, Excel, Power BI, OSINT
+### 🏛 PACER – Public Access to Court Electronic Records (Prototype)
 
-### 🧠 Intelligence + AI Project
-A mini-project using Python, OSINT tools, and Power BI to analyze data for secret service and security intelligence contexts.
+**Status**: Prototype
+**Development Phase**: Active
+**Current Focus**: Data normalization, workflow orchestration, analyst review systems.
 
-### 🌾 Darkhorse Agro Dashboard
-An agricultural reporting system for fertilizer distribution, yield tracking, and export documentation — built using Google Forms and Power BI.
+This project explores digitizing and making legal case data accessible. It focuses on the technical challenges of data extraction, normalization, and secure presentation for citizens and researchers.
+
+**Tools**: Python, Excel, Power BI, OSINT techniques
+
+### 🧠 Intelligence Workflow & AI Experimentation (Prototype)
+
+**Status**: Prototype
+**Development Phase**: Active
+**Current Focus**: Local AI-assisted analysis, evidence normalization, OSINT pipeline experimentation.
+
+An experimental project utilizing Python, OSINT tools, and Power BI to research and prototype modular intelligence workflow platforms. Focuses on local AI-assisted analysis and evidence normalization within security intelligence contexts.
+
+### 🌾 Darkhorse Agro Dashboard (MVP)
+
+**Status**: Minimum Viable Product (MVP)
+**Development Phase**: Active
+**Current Focus**: Connector integration, data visualization refinement.
+
+An agricultural reporting system for fertilizer distribution, yield tracking, and export documentation. Implemented using Google Forms for data collection and Power BI for visualization and reporting.
 
 ---
 
-## 🛠 Tools & Skills
+## 🛠 Technical Skills & Tools
 
-- Python, Pandas, Power BI, Excel, SQL
-- OSINT, Recon-ng, Nmap, Burp Suite
-- Git, GitHub, Notion, Google Workspace
+- **Programming & Data**: Python (Pandas), SQL, Excel, Power BI
+- **Cybersecurity & OSINT**: OSINT methodologies, Recon-ng, Nmap, Burp Suite
+- **DevOps & Workflow**: Git, GitHub, n8n (workflow automation)
+- **Productivity & Collaboration**: Notion, Google Workspace
 
 ---
 
-## 🎯 Goals
+## 🎯 Professional Objectives
 
-- Build secure, ethical, and impactful digital tools
-- Join elite training programs like Cyber-Nation & Google AI
-- Collaborate on AI-for-good projects in Africa
+- **Secure System Development**: Building secure, ethical, and impactful digital tools for critical infrastructure.
+- **Advanced Training**: Pursuing elite training programs in cybersecurity and AI.
+- **Collaborative Innovation**: Contributing to AI-for-good initiatives and open-source security projects.
 
-📫 Contact: [officialmunir27@gmail.com](mailto:officialmunir27@gmail.com)
+---
+
+📫 **Contact**: officialmunir27@gmail.com
