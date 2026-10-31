@@ -1,0 +1,11 @@
+
+# Local secrets and generated data
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+raw-dumps/

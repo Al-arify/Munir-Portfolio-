@@ -1,56 +1,57 @@
-# Muhammad Munir Awal: Cybersecurity & Intelligence Systems Portfolio
+# Cybersecurity & Intelligence Systems Portfolio
 
-### Cybersecurity Practitioner | OSINT Researcher | Workflow Engineer
+A concise portfolio of research directions, prototypes, and implementation notes spanning cybersecurity learning, OSINT, workflow automation, and institutional digital transformation.
 
-👋🏽 I'm Muhammad, a cybersecurity practitioner focused on **Open-Source Intelligence (OSINT)**, **institutional systems architecture**, and **digital transformation**. I specialize in developing robust security solutions and optimizing technical workflows.
+## Project Status
 
----
+- **Status:** Prototype / portfolio documentation
+- **Development phase:** Active
+- **Current focus:** Evidence-backed project descriptions, architecture notes, and links to reproducible work
+- **Scope boundary:** This repository does not claim a deployed intelligence platform, production SOC, or operational government system.
 
-## 🔍 Featured Projects
+## Featured work
 
-### 🏛 PACER – Public Access to Court Electronic Records (Prototype)
+### PACER — legal data and workflow research
 
-**Status**: Prototype
-**Development Phase**: Active
-**Current Focus**: Data normalization, workflow orchestration, analyst review systems.
+A prototype direction exploring data extraction, normalization, and secure presentation for legal and public-interest records. Current work is research- and workflow-focused; no production deployment is claimed.
 
-This project explores digitizing and making legal case data accessible. It focuses on the technical challenges of data extraction, normalization, and secure presentation for citizens and researchers.
+### Intelligence workflow experimentation
 
-**Tools**: Python, Excel, Power BI, OSINT techniques
+A development-focused exploration of modular OSINT collection, evidence normalization, local AI-assisted analysis, and analyst review. The architecture is experimental and should be read as a research pipeline, not a finished intelligence product.
 
-### 🧠 Intelligence Workflow & AI Experimentation (Prototype)
+### GTIDS core engine — evidence and intake prototype
 
-**Status**: Prototype
-**Development Phase**: Active
-**Current Focus**: Local AI-assisted analysis, evidence normalization, OSINT pipeline experimentation.
+The [`gtids-core-engine`](gtids-core-engine/) subproject is a tested Java prototype that separates ingestion from evidence handling. It currently models synthetic intake packets, creates SHA-256 integrity records, and exercises concurrent intake with JUnit 5. It does not connect to dark-web services, establish legal admissibility, or provide a production chain-of-custody system.
 
-An experimental project utilizing Python, OSINT tools, and Power BI to research and prototype modular intelligence workflow platforms. Focuses on local AI-assisted analysis and evidence normalization within security intelligence contexts.
+### Darkhorse Agro dashboard
 
-### 🌾 Darkhorse Agro Dashboard (MVP)
+An early data-reporting initiative using form-based collection and dashboard tooling to explore distribution, yield, and export reporting. Maturity and implementation details are documented as they become reproducible.
 
-**Status**: Minimum Viable Product (MVP)
-**Development Phase**: Active
-**Current Focus**: Connector integration, data visualization refinement.
+## Technical areas
 
-An agricultural reporting system for fertilizer distribution, yield tracking, and export documentation. Implemented using Google Forms for data collection and Power BI for visualization and reporting.
+- Python, pandas, SQL, Excel, and Power BI for data work
+- Git/GitHub and n8n for workflow versioning and automation experiments
+- OSINT methods, source evaluation, and evidence handling
+- Security operations learning, network analysis, and defensive tooling
 
----
+## Repository structure
 
-## 🛠 Technical Skills & Tools
+```text
+/docs/architecture/  Architecture notes and diagrams
+/docs/workflows/     Process and data-flow notes
+/docs/screenshots/   Screenshots when real evidence is available
+/scripts/             Small reproducible utilities
+/examples/            Sanitised examples and sample inputs
+/assets/              Supporting diagrams and visual assets
+```
 
-- **Programming & Data**: Python (Pandas), SQL, Excel, Power BI
-- **Cybersecurity & OSINT**: OSINT methodologies, Recon-ng, Nmap, Burp Suite
-- **DevOps & Workflow**: Git, GitHub, n8n (workflow automation)
-- **Productivity & Collaboration**: Notion, Google Workspace
+## Roadmap
 
----
+1. Add reproducible examples and architecture diagrams.
+2. Link completed labs and workflow exports from the related repositories.
+3. Document test data, limitations, and security assumptions.
+4. Replace placeholders with verifiable screenshots only after implementation.
 
-## 🎯 Professional Objectives
+## Contact
 
-- **Secure System Development**: Building secure, ethical, and impactful digital tools for critical infrastructure.
-- **Advanced Training**: Pursuing elite training programs in cybersecurity and AI.
-- **Collaborative Innovation**: Contributing to AI-for-good initiatives and open-source security projects.
-
----
-
-📫 **Contact**: officialmunir27@gmail.com
+Email: officialmunir27@gmail.com
